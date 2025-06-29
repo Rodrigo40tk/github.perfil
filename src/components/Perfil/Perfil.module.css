@@ -8,14 +8,14 @@
 }
 
 .avatar{
-    width: 160px;
-    height: 160px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     border: 2px solid var(--corSecundaria);
 
 }
 
 .name{
-    font-size: 18px;
+    font-size: 28px;
     color: var(--corSecundaria);;
 }
